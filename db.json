@@ -1,0 +1,31 @@
+{
+"bioskop":
+[{"id":1,"name":"Fist of Legend (Jing wu ying xiong)","category":"Action|Drama"},
+{"id":2,"name":"Ruthless People","category":"Comedy"},
+{"id":3,"name":"Canal, The","category":"Horror|Thriller"},
+{"id":4,"name":"Masti","category":"Comedy"},
+{"id":5,"name":"Inherit the Wind","category":"Drama"},
+{"id":6,"name":"Absent (Ausente)","category":"Drama|Thriller"},
+{"id":7,"name":"Traviata, La","category":"Drama|Musical"},
+{"id":8,"name":"Defiant Ones, The","category":"Adventure|Crime|Drama|Thriller"},
+{"id":9,"name":"Delusion","category":"Crime|Drama|Thriller"},
+{"id":10,"name":"Spiderwick Chronicles, The","category":"Adventure|Children|Drama|Fantasy|IMAX"},
+{"id":11,"name":"247°F ","category":"Horror|Thriller"},
+{"id":12,"name":"Suspect","category":"Crime|Drama|Thriller"},
+{"id":13,"name":"Stationmaster Is on Fire - The Movie, That Is!, The (Stinsen brinner... filmen alltså)","category":"Comedy|Musical"},
+{"id":14,"name":"Truth About Charlie, The","category":"Mystery|Thriller"},
+{"id":15,"name":"Blood and Roses (Et mourir de plaisir) (To Die with Pleasure)","category":"Horror"},
+{"id":16,"name":"One Magic Christmas","category":"Drama|Fantasy"},
+{"id":17,"name":"Officer's Ward (chambre des officiers, La)","category":"Drama|Romance|War"},
+{"id":18,"name":"Sandlot, The","category":"Children|Comedy|Drama"},
+{"id":19,"name":"Tasting Menu","category":"Comedy"},
+{"id":20,"name":"Irresistible","category":"Drama|Thriller"},
+{"id":21,"name":"Hand Gun","category":"Action|Crime|Drama|Thriller"},
+{"id":22,"name":"Union Square","category":"Drama"},
+{"id":23,"name":"Tree, The","category":"Children|Drama"},
+{"id":24,"name":"California Split","category":"Comedy|Drama"},
+{"id":25,"name":"The Old Gun","category":"Drama|Thriller|War"},
+{"id":26,"name":"Rich Man's Wife, The","category":"Thriller"},
+{"id":27,"name":"Unforgiven","category":"Drama|Western"}
+]
+}
